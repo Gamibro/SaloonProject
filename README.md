@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,100:c44569&height=200&section=header&text=Salon%20Management%20System&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=A%20Smart%20Appointment%20%26%20Salon%20Operations%20Platform&descAlignY=58&descSize=16&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,100:c44569&height=200&section=header&text=Salon+Management+System&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Smart+Appointment+and+Salon+Operations+Platform&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -211,4 +211,4 @@ Built by **Gamith Ranasinghe**
 🔗 [LinkedIn](https://linkedin.com/in/gamith-ranasinghe)
 💻 [GitHub](https://github.com/Gamibro/Salon)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:c44569,100:ff6b9d&height=120&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44569,100:ff6b9d&height=120&section=footer&animation=fadeIn" width="100%"/>
