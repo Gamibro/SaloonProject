@@ -1,0 +1,14 @@
+# .NET / C# Backend
+bin/
+obj/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.user
+
+# React Frontend
+node_modules/
+build/
+dist/
+.env
