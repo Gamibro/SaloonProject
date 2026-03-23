@@ -1,0 +1,135 @@
+[
+    {
+      "_id": 1,
+      "name": "HAIRCUT",
+      "img": "https://i.ibb.co/5Rsj4fX/HAIRCUT.jpg",
+      "slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 2,
+      "name": "MUSTACHE",
+      "img": "https://i.ibb.co/PTbTVs3/MUSTACHE.jpg","slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 3,
+      "name": "SHAVE",
+      "img": "https://i.ibb.co/fVWhFGy/SHAVE.jpg","slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 4,
+      "name": "Manicure & Pedicure",
+      "img": "https://i.ibb.co/JKQFf3H/Manicure-Pedicure.jpg","slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 5,
+      "name": "BREADTRIM",
+      "img": "https://i.ibb.co/R3CJ1qB/BREADTRIM.jpg","slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    },
+    {
+      "_id": 6,
+      "name": "HAIR DYEING",
+      "img": "https://i.ibb.co/mcpG5CB/HAIR-DYEING.png","slots": [
+        "08.00 AM - 08.30 AM",
+        "08.30 AM - 09.00 AM",
+        "09.00 AM - 9.30 AM",
+        "09.30 AM - 10.00 AM",
+        "10.00 AM - 10.30 AM",
+        "10.30 AM - 11.00 AM",
+        "11.00 AM - 11.30 AM",
+        "11.30 AM - 12.00 AM",
+        "1.00 PM - 1.30 PM",
+        "1.30 PM - 2.00 PM",
+        "2.00 PM - 2.30 PM",
+        "2.30 PM - 3.00 PM",
+        "3.00 PM - 3.30 PM",
+        "3.30 PM - 4.00 PM",
+        "4.00 PM - 4.30 PM",
+        "4.30 PM - 5.00 PM"
+      ]
+    } 
+]
